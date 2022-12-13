@@ -3,5 +3,8 @@ when join a project has:
 - 1 branch main/master: have a main role in project
 - many branch : have sub-role for main/master.
 After modified many branch well. merge many branch into main branch
-+ PULL: 
-git pull origin main
++ PULL= fetch+merge: git pull origin main/master
+pull code on github from team creates -->local
++ create new branch to merge code:
+git check out -b name_branch
+git branch: list branch usable

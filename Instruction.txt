@@ -1,0 +1,7 @@
+branch: 
+when join a project has:
+- 1 branch main/master: have a main role in project
+- many branch : have sub-role for main/master.
+After modified many branch well. merge many branch into main branch
++ PULL: 
+git pull origin main

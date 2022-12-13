@@ -1,1 +1,1 @@
-# TeamGit
+# TeamGit from another team

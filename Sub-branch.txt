@@ -1,0 +1,3 @@
+new branch from Sub-branch:
+git checkout main: folder will appear code in main branch
+git checkout Sub-branch: foler will apeear code in sub branch

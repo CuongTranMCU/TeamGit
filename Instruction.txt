@@ -3,12 +3,20 @@ when join a project has:
 - 1 branch main/master: have a main role in project
 - many branch : have sub-role for main/master.
 After modified many branch well. merge many branch into main branch
+<<<<<<< HEAD
 + PULL: 
 git pull origin main:
 + git checkout main/master/...
 + Conflict:
 - if( any one modified files and I also modified 
 and push on github"
-+ B1: Git pull
++ B1: Git pull origin master/main/...
 + B2: Click into Modifed file and delete file
 is not necessary
+=======
++ PULL= fetch+merge: git pull origin main/master
+pull code on github from team creates -->local
++ create new branch to merge code:
+git check out -b name_branch
+git branch: list branch usable
+>>>>>>> 33d1fda95a3079163a2afc5746ff316d367fa7e5

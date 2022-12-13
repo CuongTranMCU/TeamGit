@@ -4,4 +4,11 @@ when join a project has:
 - many branch : have sub-role for main/master.
 After modified many branch well. merge many branch into main branch
 + PULL: 
-git pull origin main
+git pull origin main:
++ git checkout main/master/...
++ Conflict:
+- if( any one modified files and I also modified 
+and push on github"
++ B1: Git pull
++ B2: Click into Modifed file and delete file
+is not necessary
